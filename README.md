@@ -1,4 +1,4 @@
-# Cross-Company Stock Price Prediction
+# Equity Price Prediction
 
 ## Overview
 
